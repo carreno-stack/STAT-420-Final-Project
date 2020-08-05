@@ -52,7 +52,7 @@ startups = startups %>% select(
   acquired_at = as.Date(as.character(acquired_at))
 )
 
-#Splitting between train and test data
+#Splitting between train and test data (80/20)
 set.seed(20200804)
 train_index = sample(1:nrow(startups), size = floor(0.8 * nrow(startups)))
 
