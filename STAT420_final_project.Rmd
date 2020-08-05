@@ -1,0 +1,69 @@
+---
+title: "Start-up acquisition price"
+author: "Mohamed Diakite Pineda, Yu Liu, Diego Carreno, STAT 420, Summer 2020"
+date: "8/4/2020"
+output:
+  html_document: 
+    theme: readable
+    toc: yes
+  pdf_document: default
+urlcolor: cyan
+---
+***
+## Student names
+
+- Mohamed Diakite Pineda, *md21@*
+- Yu Liu, *yul10@*
+- Diego Carreno, *diegoac3@*
+
+## Introduction
+
+
+## Methods
+```{r}
+#Loading startups data
+library(dplyr)
+startups = read.csv("startups.csv")
+
+#Bringing in acquisitions data so that we can use the field acquired_at
+acquisitions = read.csv("acquisitions.csv")
+colnames(acquisitions)[4] = "company_id"
+startups = merge(startups,acquisitions, by = "company_id")
+
+#Generating the startups data to be used
+startups = startups %>% select(
+  #Selecting pre-defined fields
+  category_code,
+  normalized_name,
+  logo_width,
+  logo_height,
+  country_code,
+  city,
+  investment_rounds,
+  invested_companies,
+  milestones,
+  relationships,
+  funding_total_usd,
+  acquired_at
+) %>% mutate(
+  #Adding extra columns: logo ratio, name length, and acquired at
+  logo_ratio = logo_width / logo_height,
+  name_length = nchar(as.character(startups$normalized_name)),
+  acquired_at = as.Date(as.character(acquired_at))
+)
+
+#Splitting between train and test data
+set.seed(20200804)
+train_index = sample(1:nrow(startups), size = floor(0.8 * nrow(startups)))
+
+startups_tr = startups[train_index,]
+startups_te = startups[-train_index,]
+write_csv(x = startups_tr, path = "./startups_tr.csv")
+write_csv(x = startups_te, path = "./startups_te.csv")
+
+```
+
+
+## Results
+
+## Discussion
