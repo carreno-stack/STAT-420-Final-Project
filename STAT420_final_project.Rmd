@@ -23,6 +23,7 @@ urlcolor: cyan
 ```{r}
 #Loading startups data
 library(dplyr)
+library(readr)
 startups = read.csv("startups.csv")
 
 #Bringing in acquisitions data so that we can use the field acquired_at
