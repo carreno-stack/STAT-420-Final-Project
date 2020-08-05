@@ -1,0 +1,518 @@
+category_code,normalized_name,logo_width,logo_height,country_code,city,investment_rounds,invested_companies,milestones,relationships,funding_total_usd,acquired_at,logo_ratio,name_length
+games_video,flektor,186,85,USA,Culver City,0,0,0,6,0,2007-05-30,2.1882352941176473,7
+hardware,vidacare,330,130,USA,Shavano Park,0,0,0,4,274999,2013-10-29,2.5384615384615383,8
+hardware,videosurf,640,69,USA,San Mateo,0,0,3,7,28000000,1993-06-20,9.27536231884058,9
+network_hosting,iweb technologies,240,178,CAN,"Montreal, QuÃ©bec",0,0,0,4,33521974,2013-10-30,1.348314606741573,17
+NA,turntide,0,0,NA,NA,0,0,1,4,750000,2004-07-01,NaN,8
+web,dotspotter,200,45,USA,NA,0,0,3,1,0,2007-10-01,4.444444444444445,10
+cleantech,the climate,252,81,USA,San Francisco,0,0,2,28,108900000,2013-10-02,3.111111111111111,11
+security,loglogic,500,178,USA,San Jose,0,0,3,15,8800000,2012-04-03,2.808988764044944,8
+web,egroups,135,73,USA,San Francisco,0,0,1,9,0,2000-06-28,1.8493150684931507,7
+NA,alltheweb,258,74,NA,NA,0,0,2,0,0,2003-02-02,3.4864864864864864,9
+NA,hotjobs,307,34,NA,NA,0,0,3,7,0,2002-01-11,9.029411764705882,7
+NA,hotjobs,307,34,NA,NA,0,0,3,7,0,2010-02-03,9.029411764705882,7
+NA,log me on,124,52,NA,NA,0,0,0,1,0,1999-05-01,2.3846153846153846,9
+NA,viaweb,229,91,NA,NA,0,0,0,0,0,1998-06-01,2.5164835164835164,6
+NA,net controls,0,0,NA,NA,0,0,0,0,0,1997-09-01,NaN,12
+software,navteq,263,59,USA,Chicago,1,1,3,26,0,2008-07-10,4.4576271186440675,6
+web,fundamental data limited,101,76,GBR,London,0,0,0,0,0,2008-10-03,1.3289473684210527,24
+software,qumranet,230,55,USA,Sunnyvale,0,0,1,6,0,2008-09-04,4.181818181818182,8
+advertising,peer39,167,58,USA,New York,0,0,5,18,29915001,2012-04-24,2.8793103448275863,6
+advertising,24 7 real media,98,63,USA,New York,0,0,0,34,0,2008-05-17,1.5555555555555556,15
+consulting,targusinfo,307,59,USA,McLean,0,0,3,6,0,2011-10-11,5.203389830508475,10
+enterprise,hivelive,200,56,USA,Boulder,0,0,3,8,8950000,2009-09-08,3.5714285714285716,8
+consulting,obtiva,964,262,USA,NA,0,0,3,4,0,2011-08-04,3.6793893129770994,6
+consulting,compete,600,200,USA,Boston,0,0,5,35,33000000,2008-03-03,3,7
+biotech,atrium medical,600,164,USA,Hudson,0,0,0,6,0,2011-10-03,3.658536585365854,14
+public_relations,icq,288,294,NA,NA,0,0,3,14,0,1998-06-08,0.9795918367346939,3
+web,bankingmyway,183,90,USA,Fort Atkinson,0,0,0,1,0,2007-11-01,2.033333333333333,12
+advertising,omniture,150,55,USA,Orem,0,0,3,36,25000000,2009-10-23,2.727272727272727,8
+web,drugstore,261,75,USA,Bellevue,0,0,2,17,63000000,2011-03-24,3.48,9
+biotech,mds analytical technologies,229,77,USA,Sunnyvale,0,0,0,2,0,2009-09-03,2.9740259740259742,27
+software,optimost,161,62,USA,San Jose,0,0,0,2,0,2007-10-01,2.596774193548387,8
+software,softimage,104,25,CAN,Montreal,0,0,1,4,0,2008-10-23,4.16,9
+web,bloglines,206,60,USA,Cary,0,0,2,3,0,2010-11-04,3.433333333333333,9
+web,ask,365,241,USA,Oakland,0,0,3,70,25000000,2005-07-01,1.5145228215767634,3
+software,attenex,0,0,USA,Seattle,0,0,1,3,5000000,2008-07-02,NaN,7
+NA,ixos software ag,0,0,NA,NA,0,0,0,1,0,2004-01-01,NaN,16
+security,trustgo,180,180,USA,Santa Clara,0,0,1,2,1500000,2013-02-01,1,7
+public_relations,slide,108,40,USA,San Francisco,0,0,3,37,78000000,2010-08-06,2.7,5
+mobile,wichorus,131,62,USA,San Jose,0,0,1,18,42500000,2009-10-22,2.1129032258064515,8
+web,bebo,200,74,USA,San Francisco,0,0,3,30,15000000,2008-03-13,2.7027027027027026,4
+NA,zilog,293,53,NA,NA,0,0,1,8,0,2009-12-07,5.528301886792453,5
+web,etapestry,1222,325,USA,NA,0,0,0,0,6500000,2007-08-01,3.76,9
+ecommerce,gftforex,133,75,USA,Grand Rapids,0,0,0,0,0,2013-09-25,1.7733333333333334,8
+web,cnet networks,165,41,USA,San Francisco,1,1,3,95,0,2008-05-15,4.024390243902439,13
+ecommerce,monoprice,274,51,NA,NA,0,0,1,1,0,2013-08-01,5.372549019607843,9
+mobile,air2web,149,80,IND,Atlanta,0,0,1,8,25000000,2011-09-22,1.8625,7
+NA,batunas indonesia,0,0,NA,NA,0,0,0,0,0,2011-12-20,NaN,17
+biotech,navilyst medical,271,125,USA,Marlborough,0,0,0,1,0,2012-01-31,2.168,16
+hardware,vocollect,420,78,USA,Pittsburgh,0,0,1,13,0,2011-01-18,5.384615384615385,9
+consulting,northridge,800,149,USA,Charlotte,0,0,2,3,0,2012-07-02,5.369127516778524,10
+software,sterling commerce,185,159,USA,Dublin,0,0,1,9,0,2009-02-22,1.1635220125786163,17
+software,sterling commerce,185,159,USA,Dublin,0,0,1,9,0,2009-02-22,1.1635220125786163,17
+advertising,rhythm newmedia,1439,556,USA,Mountain View,0,0,3,28,28932322,2013-12-03,2.588129496402878,15
+consulting,ims research,186,61,GBR,Wellingborough,0,0,0,2,0,2012-03-22,3.0491803278688523,12
+NA,performancesoft,0,0,NA,NA,0,0,0,0,0,2006-01-06,NaN,15
+NA,reputationmanagement,0,0,NA,NA,0,0,0,0,0,2012-03-05,NaN,20
+NA,tumbleweed communications,277,86,USA,Redwood City,0,0,1,18,0,2008-06-06,3.2209302325581395,25
+software,flutter,260,64,USA,Palo Alto,0,0,1,4,1400000,2013-10-02,4.0625,7
+enterprise,salary,194,40,USA,Needham,0,0,2,9,0,2010-09-01,4.85,6
+hardware,precision photonics,209,68,USA,Boulder,0,0,0,1,0,2012-04-11,3.073529411764706,19
+web,me2day,97,115,NA,NA,0,0,0,0,0,2008-12-22,0.8434782608695652,6
+network_hosting,edgecast networks,560,100,USA,Santa Monica,0,0,2,19,74000000,2013-12-09,5.6,17
+software,montavista software,168,56,USA,Santa Clara,0,0,1,4,21000000,2009-11-10,3,19
+network_hosting,traverse networks,122,40,USA,San Ramon,0,0,0,0,8500000,2006-11-11,3.05,17
+cleantech,better place,1863,838,USA,Palo Alto,0,0,3,17,835750000,2013-07-12,2.2231503579952268,12
+NA,serverorigin,273,70,NA,NA,0,0,0,0,0,2012-05-29,3.9,12
+web,wildblue,245,52,USA,Englewood,0,0,1,0,50000000,2009-10-01,4.711538461538462,8
+NA,parentsclick network,206,155,USA,NA,0,0,1,2,0,2008-08-27,1.3290322580645162,20
+software,amlib,216,60,AUS,Rowville,0,0,0,0,0,2008-09-12,3.6,5
+biotech,symphony vida,146,31,USA,Rockville,0,0,0,0,0,2009-07-03,4.709677419354839,13
+software,arcsight,147,57,USA,Cupertino,0,0,3,24,26914000,2010-09-13,2.5789473684210527,8
+semiconductor,provigent,207,43,USA,Santa Clara,0,0,1,10,32000000,2011-03-21,4.813953488372093,9
+network_hosting,mu dynamics,297,96,USA,Sunnyvale,0,0,1,5,24000000,2012-04-20,3.09375,11
+NA,balance for life,0,0,NA,NA,0,0,0,0,0,2007-12-31,NaN,16
+mobile,nextg networks,158,55,USA,Milpitas,0,0,1,4,409900000,2012-04-01,2.8727272727272726,14
+network_hosting,onaro,136,50,USA,Boston,0,0,1,9,10000000,2008-01-01,2.72,5
+semiconductor,symwave,260,68,USA,Laguna Niguel,0,0,1,4,26200000,2010-11-16,3.823529411764706,7
+semiconductor,designart networks,219,77,ISR,Raanana,0,0,1,2,2000000,2012-08-23,2.844155844155844,18
+NA,embanetcompass,305,133,USA,Elk Grove Village,0,0,1,1,0,2012-10-16,2.293233082706767,14
+web,nextbus,344,112,USA,Alameda,0,0,0,0,0,2013-01-27,3.0714285714285716,7
+NA,redcloud security,254,88,USA,Sterling,0,0,1,2,6920000,2013-05-31,2.8863636363636362,17
+software,applied systems,285,40,USA,University Park,0,0,2,2,0,2013-11-26,7.125,15
+NA,smartsvn,0,0,NA,NA,0,0,0,0,0,2012-09-16,NaN,8
+NA,traiana,197,44,USA,New York,0,0,1,5,15000000,2007-10-10,4.4772727272727275,7
+software,safeboot,112,26,USA,Santa Clara,0,0,0,0,0,2007-10-11,4.3076923076923075,8
+NA,acopia networks,163,48,USA,Lowell,0,0,0,4,20000000,2007-08-06,3.3958333333333335,15
+NA,datek financial services,1200,286,NA,NA,0,0,2,1,0,2002-04-01,4.195804195804196,24
+software,virtual solutions,200,56,USA,Cambridge,0,0,1,2,0,2012-11-30,3.5714285714285716,17
+software,virtual solutions,200,56,USA,Cambridge,0,0,1,2,0,2012-11-27,3.5714285714285716,17
+NA,coram specialty infusion,241,84,USA,Denver,0,0,1,4,0,2013-11-27,2.869047619047619,24
+mobile,litepoint,263,40,USA,Sunnyvale,0,0,1,4,0,2011-09-14,6.575,9
+network_hosting,ciphertrust,349,107,USA,Alpharetta,0,0,0,4,0,2006-07-12,3.2616822429906542,11
+web,2wire,168,54,USA,San Jose,0,0,1,20,0,2010-07-26,3.111111111111111,5
+NA,aventail,355,55,USA,Sunnyvale,0,0,1,5,0,2007-06-14,6.454545454545454,8
+security,sonicwall,149,45,USA,San Jose,0,0,3,18,0,2010-06-22,3.311111111111111,9
+web,affinity labs,287,87,USA,San Francisco,0,0,0,9,0,2008-01-04,3.2988505747126435,13
+games_video,ilike,930,373,USA,Seattle,0,0,5,21,16500000,2009-08-17,2.493297587131367,5
+web,atg art technology group,262,69,USA,Cambridge,0,0,2,11,0,2011-01-05,3.7971014492753623,24
+advertising,frontline direct,200,67,USA,Las Vegas,0,0,1,2,0,2008-03-06,2.985074626865672,16
+NA,treesahran industries ganes,0,0,NA,NA,0,0,0,0,0,1999-01-01,NaN,27
+NA,rocketdyne,2748,547,NA,NA,0,0,1,2,0,2013-06-10,5.023765996343693,10
+search,opobox,0,0,NA,NA,0,0,0,1,0,2006-03-01,NaN,6
+software,picochip,178,72,GBR,Bath,0,0,2,12,96500000,2012-01-05,2.4722222222222223,8
+software,rightnow technologies,129,135,USA,Bozeman,0,0,2,20,0,2011-10-24,0.9555555555555556,21
+advertising,tatto media,250,76,USA,Boston,0,0,2,6,0,2011-04-11,3.289473684210526,11
+ecommerce,fictionwise,128,58,NA,NA,0,0,0,0,0,2009-03-05,2.206896551724138,11
+NA,vidking,0,0,NA,NA,0,0,0,0,0,2007-10-01,NaN,7
+web,filefront,226,104,USA,Spring,0,0,2,1,0,2010-02-11,2.173076923076923,9
+other,volvo rents construction,216,91,SWE,Edson,0,0,1,2,0,2013-12-10,2.3736263736263736,24
+web,one main,97,48,NA,NA,0,0,1,2,0,2000-09-01,2.0208333333333335,8
+software,investorforce,239,64,USA,Conshohocken,0,0,1,2,0,2013-02-15,3.734375,13
+NA,gambro,228,81,USA,Lakewood,0,0,1,3,0,2013-09-06,2.814814814814815,6
+software,zencoder,325,74,USA,San Francisco,0,0,2,7,2000000,2012-07-26,4.391891891891892,8
+biotech,spirogen,176,111,GBR,London,0,0,1,2,0,2013-10-15,1.5855855855855856,8
+NA,agencourt bioscience,187,140,NA,NA,0,0,1,4,0,2005-04-01,1.3357142857142856,20
+advertising,mr youth,1944,489,USA,New York,2,1,3,5,15100000,2011-11-14,3.9754601226993866,8
+web,amiando,225,56,DEU,Munich,0,0,3,10,0,2010-12-10,4.017857142857143,7
+web,qype,763,290,DEU,Hamburg,0,0,4,10,23084124,2012-10-25,2.6310344827586207,4
+web,salesforce radian6,151,44,CAN,Fredericton,0,0,3,11,9000000,2011-03-30,3.4318181818181817,18
+mobile,aurora networks,135,38,USA,Santa Clara,0,0,0,5,0,2013-10-23,3.5526315789473686,15
+web,picscout,1661,294,ISR,Hertzelia,0,0,3,7,0,2011-04-27,5.649659863945578,8
+biotech,synosia therapeutics,217,71,CHE,Basel,0,0,1,5,91500000,2011-01-11,3.056338028169014,20
+mobile,justchalo,150,154,USA,Saratoga,0,0,0,2,0,2013-06-14,0.974025974025974,9
+NA,elitebusinesshosting,0,0,NA,NA,0,0,0,0,0,2012-12-12,NaN,20
+mobile,where,501,235,USA,Boston,0,0,6,23,19100000,2011-04-01,2.1319148936170214,5
+biotech,fera pharmaceuticals,122,71,NA,NA,0,0,0,0,0,2013-06-17,1.7183098591549295,20
+consulting,focusframe,294,121,USA,San Jose,0,0,1,2,0,2006-11-06,2.4297520661157024,10
+NA,equitrac,227,75,USA,Plantation,0,0,0,1,0,2011-05-10,3.026666666666667,8
+biotech,bionostics,244,112,USA,Devens,0,0,1,1,0,2013-06-18,2.1785714285714284,10
+public_relations,telkom kenya,200,40,KEN,Nairobi,0,0,0,2,0,2013-06-19,5,12
+mobile,arieso,144,51,GBR,Newbury,0,0,2,1,9513176,2013-03-08,2.823529411764706,6
+software,eglue business technologies,307,92,USA,Hoboken,0,0,0,0,27000000,2010-06-10,3.3369565217391304,27
+NA,stewart enterprises,336,67,USA,Jefferson,0,0,0,0,0,2013-05-29,5.014925373134329,19
+games_video,paramount pictures,700,382,USA,New York,0,0,0,18,0,1966-03-24,1.8324607329842932,18
+software,smart storage systems,207,75,USA,Newark,0,0,0,0,0,2013-07-02,2.76,21
+games_video,diamond game enterprises,368,84,USA,Chatsworth,0,0,0,0,0,2013-06-17,4.380952380952381,24
+NA,pulsecor limited,0,0,NA,NA,0,0,0,0,0,2013-06-17,NaN,16
+mobile,danger,150,25,USA,Palo Alto,0,0,2,18,118300000,2008-02-11,6,6
+NA,91 wireless,279,139,CHN,NA,0,0,1,0,0,2013-07-15,2.0071942446043165,11
+social,powerreviews,384,95,USA,San Francisco,0,0,4,24,40120312,2012-05-24,4.042105263157895,12
+games_video,playcrab,125,117,NA,NA,0,0,0,0,0,2013-07-23,1.0683760683760684,8
+ecommerce,rivals,242,56,USA,Brentwood,0,0,1,9,0,2007-06-20,4.321428571428571,6
+web,maktoob,175,112,JOR,Amman,0,0,2,7,5250000,2010-02-26,1.5625,7
+cleantech,optisolar r d,258,127,USA,Hayward,0,0,0,1,132000000,2009-03-03,2.031496062992126,13
+web,ohloh,63,35,USA,Bellevue,0,0,3,2,0,2010-10-06,1.8,5
+search,allhealthcarejobs,393,64,NA,NA,0,0,0,0,0,2009-06-11,6.140625,17
+biotech,innovative spinal technologies,0,0,USA,Plano,0,0,0,0,18000000,2009-09-15,NaN,30
+manufacturing,steinway musical instruments,240,69,USA,Waltham,0,0,0,0,0,2013-08-14,3.4782608695652173,28
+semiconductor,raza microelectronics,240,70,USA,Cupertino,0,0,0,4,0,2009-06-02,3.4285714285714284,21
+other,american land lease,282,42,USA,Clearwater,0,0,0,0,0,2008-12-10,6.714285714285714,19
+biotech,aragon pharmaceuticals,226,66,USA,San Diego,0,0,1,15,122000000,2013-06-17,3.4242424242424243,22
+NA,teoma technologies,270,38,USA,Piscataway,0,0,0,1,0,2001-09-01,7.105263157894737,18
+search,fast search transfer,153,68,USA,San Mateo,0,0,1,19,0,2008-01-08,2.25,20
+biotech,ligocyte pharmaceuticals,249,120,USA,Bozeman,0,0,1,4,42072305,2012-10-01,2.075,24
+NA,fine chemicals,0,0,NA,NA,0,0,0,0,0,2008-10-03,NaN,14
+manufacturing,thornton ross,256,48,GBR,"Huddersfield,",0,0,0,0,0,2013-08-19,5.333333333333333,13
+semiconductor,netxen,137,78,NA,NA,0,0,1,3,0,2009-04-30,1.7564102564102564,6
+search,idt b,110,53,NA,NA,0,0,0,0,0,2009-04-30,2.0754716981132075,5
+health,talbot holdings,184,83,BMU,Hamilton,0,0,0,4,0,2007-07-03,2.216867469879518,15
+NA,c a m,0,0,NA,NA,0,0,0,0,0,2011-08-01,NaN,5
+biotech,pearl therapeutics,180,68,USA,Redwood City,0,0,0,4,232000100,2013-06-10,2.6470588235294117,18
+NA,vacation rentals mammoth lakes california,0,0,NA,NA,0,0,0,0,0,2001-03-17,NaN,41
+consulting,anix group,390,125,IND,New Delhi,0,0,1,1,0,2009-06-01,3.12,10
+biotech,magen biosciences,780,120,USA,Waltham,0,0,0,3,0,2009-04-03,6.5,17
+NA,vacation rentals vail colorado,0,0,NA,NA,0,0,0,0,0,2007-08-17,NaN,30
+NA,vacation rentals groton connecticut,0,0,NA,NA,0,0,0,0,0,2008-02-08,NaN,35
+NA,vacation rentals fort lauderdale florida,0,0,NA,NA,0,0,0,0,0,2005-03-09,NaN,40
+fashion,juicy couture,273,55,NA,NA,0,0,1,0,0,2013-10-08,4.963636363636364,13
+NA,vacation rental by homeowner,0,0,NA,NA,0,0,0,0,0,2010-06-06,NaN,28
+NA,vacation rentals kansas city kansas,0,0,NA,NA,0,0,0,0,0,2010-01-09,NaN,35
+NA,vacation rentals new orleans louisiana,0,0,NA,NA,0,0,0,0,0,2010-01-10,NaN,38
+NA,vacation rentals disney oklahoma,0,0,NA,NA,0,0,0,0,0,2009-02-02,NaN,32
+NA,vacation rentals pocono lake pennsylvania,0,0,NA,NA,0,0,0,0,0,2008-03-06,NaN,41
+NA,vacation rentals in folly beach south carolina,0,0,NA,NA,0,0,0,0,0,2010-05-25,NaN,46
+NA,vacation rentals kingston plantation travel,0,0,NA,NA,0,0,0,0,0,2007-03-11,NaN,43
+NA,vacation rentals kingston vacation condo,0,0,NA,NA,0,0,0,0,0,2009-01-11,NaN,40
+NA,vacation rentals kingston vacation myrtle beach,0,0,NA,NA,0,0,0,0,0,2009-06-23,NaN,47
+NA,kingston plantation reservation south carolina,0,0,NA,NA,0,0,0,0,0,2008-05-10,NaN,46
+NA,vacation rentals gatlinburg tennessee,0,0,NA,NA,0,0,0,0,0,2008-04-08,NaN,37
+NA,vacation rentals seattle washington,0,0,NA,NA,0,0,0,0,0,2005-01-11,NaN,35
+mobile,eldorado,0,0,NA,NA,0,0,1,0,0,2009-04-04,NaN,8
+biotech,boca pharmacal,204,93,USA,Coral Springs,0,0,0,0,0,2013-08-28,2.193548387096774,14
+finance,homesite,298,86,USA,Boston,0,0,1,1,0,2013-09-05,3.4651162790697674,8
+advertising,connect3 systems,143,40,USA,Cerritos,0,0,0,0,0,2009-02-25,3.575,16
+enterprise,choicepay,211,29,USA,Tulsa,0,0,0,0,0,2009-02-03,7.275862068965517,9
+semiconductor,atexis,182,49,FRA,Fontenay TrÃ©signy,0,0,0,0,0,2009-02-02,3.7142857142857144,6
+enterprise,glowork,174,37,SAU,Riyadh,0,0,0,2,0,2013-09-11,4.702702702702703,7
+finance,sterling financial,226,101,USA,Spokane,0,0,0,0,0,2013-09-11,2.237623762376238,18
+security,authorize,825,225,USA,American Fork,0,0,2,1,0,2007-06-18,3.6666666666666665,9
+biotech,flowsense,146,136,NA,NA,0,0,0,0,0,2013-09-11,1.0735294117647058,9
+software,kintera,0,0,NA,NA,0,0,1,5,4480000,2008-07-09,NaN,7
+software,triplearc,184,110,GBR,London,0,0,0,0,0,2008-04-17,1.6727272727272726,9
+software,prairie technologies,289,110,USA,Middleton,0,0,0,0,0,2013-09-13,2.6272727272727274,20
+manufacturing,boise,158,52,USA,Boise,0,0,0,4,0,2013-09-16,3.0384615384615383,5
+semiconductor,integration associates,0,0,USA,Mountain View,0,0,1,1,0,2008-07-30,NaN,22
+NA,era,144,75,NA,NA,0,0,1,2,0,2008-04-30,1.92,3
+NA,trapeze networks,160,48,USA,Pleasanton,0,0,1,32,47500000,2010-11-01,3.3333333333333335,16
+semiconductor,zetex,199,61,GBR,NA,0,0,0,0,0,2008-06-09,3.262295081967213,5
+games_video,midway games,243,82,USA,Chicago,0,0,1,7,0,2009-07-02,2.9634146341463414,12
+software,sophos,110,37,GBR,Abingdon,0,0,2,18,0,2010-05-04,2.972972972972973,6
+advertising,tra,216,93,USA,New York,0,0,1,0,31700000,2012-07-17,2.3225806451612905,3
+public_relations,radyne,139,84,USA,Tempe,0,0,0,0,0,2008-05-12,1.6547619047619047,6
+other,hireright,120,45,USA,Irvine,0,0,1,10,0,2008-08-21,2.6666666666666665,9
+software,nutech solutions,200,102,USA,Marlborough,0,0,0,1,0,2008-05-15,1.9607843137254901,16
+software,official payments,247,58,USA,Norcross,0,0,0,0,0,2013-09-23,4.258620689655173,17
+security,asempra technologies,0,0,USA,Santa Clara,0,0,1,4,20000000,2009-05-01,NaN,20
+public_relations,lightera,270,73,USA,Cupertino,0,0,0,1,0,1999-03-01,3.6986301369863015,8
+manufacturing,grohe ag,215,77,DEU,Düsseldorf,0,0,0,1,0,2013-09-25,2.792207792207792,8
+software,osa technologies,71,51,USA,San Jose,0,0,1,10,0,2004-04-07,1.392156862745098,16
+security,cyveillance,185,64,USA,Fairfax,0,0,0,2,0,2009-05-06,2.890625,11
+enterprise,e register,0,0,GBR,Bath,0,0,0,0,0,2009-05-08,NaN,10
+software,coldspark,218,48,USA,Broomfield,0,0,1,3,6500000,2009-05-11,4.541666666666667,9
+other,travel channel,204,92,USA,Chevy Chase,1,1,0,4,0,2010-01-01,2.217391304347826,14
+other,travel channel,204,92,USA,Chevy Chase,1,1,0,4,0,1997-06-01,2.217391304347826,14
+other,travel channel,204,92,USA,Chevy Chase,1,1,0,4,0,2007-05-01,2.217391304347826,14
+other,travel channel,204,92,USA,Chevy Chase,1,1,0,4,0,1997-01-01,2.217391304347826,14
+other,travel channel,204,92,USA,Chevy Chase,1,1,0,4,0,2007-05-01,2.217391304347826,14
+other,travel channel,204,92,USA,Chevy Chase,1,1,0,4,0,1992-01-01,2.217391304347826,14
+other,travel channel,204,92,USA,Chevy Chase,1,1,0,4,0,1997-06-01,2.217391304347826,14
+other,travel channel,204,92,USA,Chevy Chase,1,1,0,4,0,1997-01-01,2.217391304347826,14
+games_video,shape games,186,64,USA,Alexandria,0,0,0,0,0,2008-04-20,2.90625,11
+software,fulltilt solutions,146,54,USA,Wayne,0,0,1,5,0,2008-06-23,2.7037037037037037,18
+manufacturing,edgen group,132,65,USA,Baton Rouge,0,0,0,2,0,2013-10-02,2.0307692307692307,11
+software,center line data,0,0,NA,NA,0,0,0,0,0,2008-05-21,NaN,16
+semiconductor,technologies and devices international,0,0,USA,Silver Spring,0,0,0,0,0,2008-04-01,NaN,38
+software,open e cry,176,87,USA,Powell,0,0,0,0,0,2008-05-01,2.0229885057471266,10
+software,touchstone software,373,108,USA,North Andover,0,0,0,0,0,2008-05-02,3.4537037037037037,19
+software,insightful,129,56,USA,Seattle,0,0,1,6,0,2008-05-02,2.3035714285714284,10
+enterprise,phns,223,63,USA,Dallas,0,0,1,1,0,2010-11-08,3.5396825396825395,4
+other,referencedatafactory,386,106,NA,NA,0,0,0,0,0,2009-10-25,3.641509433962264,20
+health,pacsgear,211,76,USA,Pleasanton,0,0,0,0,0,2013-10-04,2.776315789473684,8
+semiconductor,authentec,178,48,USA,Melbourne,0,0,2,3,0,2012-07-27,3.7083333333333335,9
+software,vertafore,206,83,USA,Bothell,0,0,1,18,0,2010-06-10,2.4819277108433737,9
+biotech,optimedica,215,40,USA,Santa Clara,0,0,1,16,51000000,2013-07-15,5.375,10
+NA,advanced control components,160,74,USA,NA,0,0,0,0,0,2009-01-17,2.1621621621621623,27
+other,luminus devices,349,55,USA,Billerica,0,0,2,3,135826373,2013-06-13,6.345454545454546,15
+NA,managed hosting division of 8x8d b a central host,0,0,NA,NA,0,0,0,0,0,2013-09-30,NaN,49
+biotech,vet therapeutics,196,75,USA,NA,0,0,0,0,0,2013-10-14,2.6133333333333333,16
+software,contemporary computer services,108,90,USA,Bohemia,0,0,0,0,0,2008-12-23,1.2,30
+enterprise,entegreat,145,35,USA,Birmingham,0,0,0,0,0,2008-05-10,4.142857142857143,9
+biotech,corthera,229,64,USA,San Carlos,0,0,1,6,23000000,2009-12-23,3.578125,8
+software,flexycore,267,200,FRA,"Rennes,, France",0,0,1,0,0,2013-10-20,1.335,9
+manufacturing,bcd semiconductor manufacturing limited,425,39,USA,Fremont,0,0,0,0,700000,2013-03-05,10.897435897435898,39
+cleantech,prosep,234,78,USA,Houston,0,0,0,2,0,2013-10-24,3,6
+NA,creative web solution,0,0,NA,NA,0,0,0,0,0,2013-02-05,NaN,21
+NA,dynamictech,0,0,NA,NA,0,0,0,0,0,2013-01-18,NaN,11
+finance,mission community bank,209,94,USA,San Luis Obispo,0,0,0,0,0,2013-10-21,2.223404255319149,22
+health,senior home care,321,100,USA,Clearwater,0,0,0,3,0,2013-11-04,3.21,16
+web,acceloweb,1500,388,NA,NA,0,0,2,5,0,2011-05-09,3.865979381443299,9
+finance,premier service bank,375,92,USA,Riverside,0,0,0,2,0,2013-11-05,4.076086956521739,20
+hardware,creaform,247,80,CAN,"Lévis,Québec",0,0,0,2,0,2013-11-06,3.0875,8
+software,tamale software,117,60,USA,New York,0,0,1,3,0,2008-09-01,1.95,15
+games_video,i motion,225,72,DEU,Koblenz District Court,0,0,0,0,0,2013-11-20,3.125,8
+NA,bergen brunswig,0,0,NA,NA,0,0,0,0,0,2000-01-01,NaN,15
+semiconductor,simtek,170,67,USA,Colorado Springs,0,0,0,2,14920000,2008-08-01,2.537313432835821,6
+enterprise,instranet,148,57,USA,Chicago,0,0,0,1,0,2008-08-04,2.5964912280701755,9
+semiconductor,centillium communications,300,60,USA,Fremont,0,0,1,12,0,2008-07-09,5,25
+consulting,opusmarkets consultants,153,100,USA,Lincolnshire,0,0,0,3,0,2013-12-02,1.53,23
+software,alaric systems,196,69,GBR,London,0,0,0,2,0,2013-12-02,2.8405797101449277,14
+biotech,medarex,312,119,USA,Princeton,0,0,0,2,0,2009-07-27,2.6218487394957983,7
+NA,emediate,0,0,NA,NA,0,0,0,0,0,2013-11-15,NaN,8
+cleantech,redwood systems,377,68,USA,Fremont,0,0,2,14,34250000,2013-07-09,5.544117647058823,15
+hardware,stream as,281,64,DEU,Bad Vilbel,0,0,0,3,0,2013-12-10,4.390625,9
+public_relations,city24 7,232,74,USA,New York,0,0,0,0,0,2008-07-09,3.135135135135135,8
+biotech,cangene,162,47,USA,Baltimore,0,0,0,0,0,2013-12-11,3.4468085106382977,7
+software,indigio group,0,0,USA,Denver,0,0,1,1,0,2008-07-01,NaN,13
+software,school information systems,102,106,USA,St. Louis,0,0,0,0,0,2008-08-31,0.9622641509433962,26
+software,prescient applied intelligence,0,0,USA,West Chester,0,0,0,2,0,2008-08-28,NaN,30
+software,conversational computing,300,170,USA,Redmond,0,0,0,2,0,2008-08-01,1.7647058823529411,24
+network_hosting,trolltech,310,44,NA,NA,0,0,1,2,0,2008-01-28,7.045454545454546,9
+software,questys solutions,370,90,USA,Santa Ana,0,0,0,0,0,2008-08-01,4.111111111111111,17
+hardware,aonex technologies,0,0,USA,Pasadena,0,0,0,2,0,2008-11-11,NaN,18
+enterprise,vovici,105,27,USA,Dulles,0,0,0,8,16300000,2011-07-19,3.888888888888889,6
+software,indiewire,303,85,USA,Brooklyn,0,0,1,3,0,2008-07-15,3.5647058823529414,9
+public_relations,vanco direct usa,0,0,USA,Chicago,0,0,0,0,0,2008-11-21,NaN,16
+mobile,ubiquisys,220,89,GBR,Swindon,0,0,2,8,81000000,2013-04-03,2.4719101123595504,9
+software,optiinvoice digital technology,314,73,SWE,Johanneshov,0,0,0,0,0,2008-10-06,4.301369863013699,30
+software,algor,170,41,USA,Pittsburgh,0,0,0,0,0,2009-01-20,4.146341463414634,5
+software,kapow software,300,105,USA,Palo Alto,0,0,1,10,19743770,2013-07-31,2.857142857142857,14
+NA,artselect,0,0,NA,NA,0,0,0,0,0,2008-12-03,NaN,9
+NA,artselect,0,0,NA,NA,0,0,0,0,0,2009-01-28,NaN,9
+software,divestco usa,93,108,USA,Denver,0,0,0,1,0,2008-09-05,0.8611111111111112,12
+semiconductor,chil semiconductor,185,67,USA,"El Segundo,",0,0,2,7,22487000,2011-02-28,2.7611940298507465,18
+software,wisestorm,0,0,NA,NA,0,0,0,0,0,2008-07-20,NaN,9
+software,wonderware mobile solutions,205,58,USA,Houston,0,0,0,2,0,2008-08-20,3.5344827586206895,27
+network_hosting,pure networks,0,0,USA,Seattle,0,0,1,5,12500000,2008-07-22,NaN,13
+software,intervoice,0,0,USA,Dallas,0,0,1,6,0,2008-07-15,NaN,10
+public_relations,allworx,199,69,USA,East Rochester,0,0,1,5,8500000,2007-11-01,2.8840579710144927,7
+web,dailystrength,305,60,USA,Los Angeles,0,0,2,7,5000000,2008-12-03,5.083333333333333,13
+enterprise,surepayroll,300,65,USA,Glenview,0,0,1,4,0,2010-12-10,4.615384615384615,11
+web,various,268,47,USA,Boca Raton,1,1,1,21,0,2007-12-11,5.702127659574468,7
+web,livedeal,600,600,USA,Las Vegas,0,0,4,3,4900000,2007-06-07,1,8
+biotech,cellzdirect,186,51,USA,Durham,0,0,0,1,0,2008-01-10,3.6470588235294117,11
+biotech,ercole biotech,0,0,USA,NA,0,0,0,0,0,2008-03-12,NaN,14
+biotech,verenium,285,67,USA,Cambridge,0,0,3,7,97309564,2010-07-15,4.253731343283582,8
+biotech,biomol international,240,99,USA,NA,0,0,0,1,0,2008-08-05,2.4242424242424243,20
+biotech,biocompatibles international,270,46,GBR,Weydon Lane,0,0,1,3,0,2010-11-19,5.869565217391305,28
+network_hosting,serverbeach,272,64,USA,San Antonio,0,0,1,3,0,2004-10-01,4.25,11
+biotech,mirus bio,373,78,USA,Madison,0,0,0,2,0,2008-07-22,4.782051282051282,9
+biotech,direvo industrial biotechnology,139,37,DEU,Cologne,0,0,0,3,33247800,2008-09-16,3.7567567567567566,31
+cleantech,powerlight,0,0,NA,NA,0,0,0,8,0,2006-11-16,NaN,10
+biotech,chengdu rongsheng pharmaceutical,0,0,CHN,Chengdu,0,0,0,1,0,2008-12-26,NaN,32
+biotech,talecris biotherapeutics,140,46,USA,Research Triangle Park,0,0,3,4,0,2011-06-07,3.0434782608695654,24
+biotech,evalve,213,65,USA,Menlo Park,0,0,1,8,60000000,2009-09-11,3.276923076923077,6
+biotech,cytyc,180,151,USA,Marlborough,1,1,0,13,0,2007-10-22,1.1920529801324504,5
+biotech,adiana,214,87,USA,Redwood City,0,0,0,3,23000000,2007-02-26,2.4597701149425286,6
+biotech,paladin labs,166,33,CAN,"St. Laurent, QC",0,0,0,2,0,2013-11-05,5.03030303030303,12
+biotech,celltran,300,101,GBR,Sheffield,0,0,0,2,7273408,2008-10-28,2.9702970297029703,8
+hardware,digeo,140,66,USA,Kirkland,0,0,1,6,0,2009-09-22,2.121212121212121,5
+transportation,waze,804,314,USA,Palo Alto,0,0,5,18,67000000,2013-06-11,2.5605095541401273,4
+software,medical dictation services,240,135,USA,Gaithersburg,0,0,0,0,0,2009-08-26,1.7777777777777777,26
+biotech,hawaii medical,202,98,USA,NA,0,0,0,0,0,2009-07-03,2.061224489795918,14
+enterprise,direct medical data,102,100,USA,Des Plaines,0,0,0,0,0,2009-09-19,1.02,19
+biotech,pegasus biologics,86,60,USA,Irvine,0,0,0,0,0,2009-07-03,1.4333333333333333,17
+biotech,alpha innotech,163,65,USA,San Leandro,0,0,0,1,0,2009-09-06,2.5076923076923077,14
+biotech,micelle laboratories,93,47,USA,Lake Forest,0,0,0,0,0,2009-08-14,1.9787234042553192,20
+software,environmental support solutions,165,47,USA,NA,0,0,0,0,8000000,2009-09-18,3.5106382978723403,31
+software,peoplesupport,0,0,USA,Los Angeles,0,0,0,4,0,2008-08-01,NaN,13
+enterprise,bladelogic,222,120,USA,Houston,0,0,3,12,7000000,2008-03-17,1.85,10
+real_estate,second porch,183,77,USA,Portland,0,0,1,2,1725000,2011-05-11,2.3766233766233764,12
+finance,paypal,2048,708,USA,San Jose,6,5,5,155,197000000,2002-07-08,2.8926553672316384,6
+biotech,trimeris,106,110,USA,Durham,0,0,2,1,0,2009-10-02,0.9636363636363636,8
+network_hosting,bigband networks,161,31,USA,Redwood City,0,0,3,17,0,2011-10-11,5.193548387096774,16
+network_hosting,seamicro,306,64,USA,Sunnyvale,0,0,1,3,35000000,2012-03-23,4.78125,8
+biotech,vaxgen,152,72,USA,South San Francisco,0,0,1,8,0,2009-10-01,2.111111111111111,6
+other,penn foster,348,85,USA,Scranton,0,0,0,0,0,2009-01-01,4.094117647058823,11
+software,arbinet,251,50,USA,Herndon,0,0,1,7,0,2010-11-11,5.02,7
+other,sonicbids,800,387,USA,Boston,0,0,3,50,4500000,2013-01-30,2.0671834625322996,9
+ecommerce,magento,250,92,USA,Los Angeles,0,0,2,10,22500000,2011-06-06,2.717391304347826,7
+games_video,backflip studios,480,320,USA,Boulder,0,0,2,3,0,2013-07-08,1.5,16
+software,verticalresponse,1324,400,USA,San Francisco,0,0,3,20,4417566,2013-07-25,3.31,16
+software,paes,0,0,USA,Cambridge,0,0,1,0,0,2009-11-01,NaN,4
+ecommerce,directi,158,52,IND,Andheri (East),0,0,2,4,0,2013-09-11,3.0384615384615383,7
+hardware,brontes technologies,0,0,NA,NA,0,0,1,3,0,2006-10-16,NaN,20
+NA,readwriteweb,368,82,NA,NA,0,0,2,12,0,2011-12-14,4.487804878048781,12
+ecommerce,bookhabit,270,64,NA,NA,0,0,0,2,0,2009-11-19,4.21875,9
+mobile,zokem,465,141,FIN,Espoo,0,0,2,5,2388400,2011-07-28,3.297872340425532,5
+network_hosting,beinsync,248,61,ISR,Tel Aviv,0,0,3,4,8000000,2008-03-01,4.065573770491803,8
+biotech,handylab,0,0,USA,Ann Arbor,0,0,0,1,0,2009-11-20,NaN,8
+mobile,lenovo mobile communication technology,139,23,CHN,"Torch High and New Tech Zone, Xiamen",0,0,0,2,0,2009-11-27,6.043478260869565,38
+biotech,ascent healthcare solutions,420,210,USA,Phoenix,0,0,0,2,0,2009-12-01,2,27
+software,game trust,382,152,USA,New York,0,0,1,3,9000000,2007-09-01,2.513157894736842,10
+biotech,movetis,213,81,BEL,Turnhout,0,0,0,3,191229400,2010-08-03,2.6296296296296298,7
+semiconductor,numonyx,190,57,CHE,Amsterdam - Rolle Branch,0,0,2,3,150000000,2010-02-09,3.3333333333333335,7
+network_hosting,genesis networks,197,80,USA,New York,0,0,0,4,22165091,2010-11-02,2.4625,16
+software,trainsignal,897,188,USA,Schaumburg,0,0,2,4,0,2013-08-06,4.7712765957446805,11
+games_video,nubb,152,42,NA,NA,0,0,0,0,0,2004-12-04,3.619047619047619,4
+enterprise,xenos,175,59,CAN,"Richmond Hill, Ontario",1,1,0,0,0,2009-12-08,2.9661016949152543,5
+mobile,dashwire,199,78,USA,Seattle,0,0,2,10,5056559,2011-08-05,2.551282051282051,8
+other,cogent energy,336,81,USA,Concord,0,0,0,0,0,2009-12-09,4.148148148148148,13
+NA,solar silicon resource group,0,0,NA,NA,0,0,0,0,0,2009-12-08,NaN,28
+semiconductor,teranetics,244,57,USA,San Jose,0,0,0,5,52800000,2010-09-27,4.280701754385965,10
+ecommerce,kobo,195,106,CAN,"Toronto, ON",0,0,3,7,15049874,2011-11-08,1.8396226415094339,4
+games_video,shanghai dacheng network technology,0,0,NA,NA,0,0,0,0,0,2009-12-15,NaN,35
+advertising,interclick,1259,358,USA,New York,0,0,1,14,18100000,2011-11-01,3.516759776536313,10
+mobile,jagtag,241,100,USA,Princeton,0,0,2,6,3628372,2011-07-01,2.41,6
+biotech,javelin pharmaceuticals,250,83,USA,Cambridge,0,0,2,2,0,2009-12-18,3.0120481927710845,23
+security,netscreen technologies,0,0,USA,Sunnyvale,0,0,1,17,0,2004-02-01,NaN,22
+biotech,novexel,217,104,FRA,Romainville,0,0,0,3,0,2009-12-23,2.0865384615384617,7
+network_hosting,vineyard networks,189,60,CAN,Kelowna,0,0,0,2,0,2013-01-07,3.15,17
+biotech,fidia advanced biopolymers,175,111,ITA,Abano Terme (PD),0,0,0,0,0,2009-12-31,1.5765765765765767,26
+software,lawson software,221,31,USA,St Paul,0,0,2,17,0,2011-04-26,7.129032258064516,15
+software,cotendo,1141,720,USA,Sunnyvale,0,0,3,9,36000000,2011-11-27,1.5847222222222221,7
+enterprise,pringo,200,101,USA,Los Angeles,0,0,3,5,0,2011-12-06,1.9801980198019802,6
+NA,logical information machines,475,71,NA,NA,0,0,0,0,0,2009-12-31,6.690140845070423,28
+news,digg,280,280,USA,San Francisco,0,0,8,57,45000000,2012-07-12,1,4
+NA,healthcare automation,338,76,NA,NA,0,0,0,0,0,2009-11-24,4.447368421052632,21
+security,broadview security,100,60,USA,Irving,0,0,0,0,0,2010-01-18,1.6666666666666667,18
+advertising,admarvel,190,40,USA,San Mateo,0,0,2,2,0,2010-01-20,4.75,8
+NA,enzon pharmaceuticals,124,44,NA,NA,0,0,1,2,0,2009-11-09,2.8181818181818183,21
+NA,global physics solutions,289,140,NA,NA,0,0,0,0,0,2009-11-09,2.0642857142857145,24
+other,escreen,219,40,USA,Overland Park,0,0,0,1,0,2012-03-06,5.475,7
+NA,carlson marketing,150,72,NA,NA,0,0,1,7,0,2009-11-03,2.0833333333333335,17
+NA,healthhonors,469,68,NA,NA,0,0,0,0,0,2009-10-14,6.897058823529412,12
+software,pgp,121,57,USA,Menlo Park,0,0,2,12,51050012,2010-04-29,2.1228070175438596,3
+NA,cerent,0,0,NA,NA,0,0,1,4,0,1999-08-26,NaN,6
+network_hosting,switch and data,160,85,USA,Tampa,0,0,1,3,0,2009-10-21,1.8823529411764706,15
+hardware,iomega,225,100,USA,San Diego,0,0,2,13,0,2008-04-08,2.25,6
+NA,the fizzback group,161,137,GBR,London,0,0,1,4,5000000,2011-09-19,1.1751824817518248,18
+software,kasenna,85,75,USA,Sunnyvale,0,0,0,6,11000000,2008-07-10,1.1333333333333333,7
+biotech,gemin x pharmaceuticals,263,72,CAN,Montreal,0,0,0,6,62000000,2011-03-21,3.6527777777777777,23
+security,messagelabs,230,71,GBR,Gloucester,0,0,1,15,0,2008-10-09,3.23943661971831,11
+semiconductor,energy micro,367,99,NOR,Oslo,0,0,1,0,13000000,2013-06-07,3.707070707070707,12
+other,geoservices,225,88,FRA,Roissy-en-France,0,0,0,2,0,2010-03-24,2.5568181818181817,11
+hardware,bell microproducts,250,40,USA,Hoffman Estates,0,0,2,3,0,2010-03-29,6.25,18
+other,yarnable,90,90,NA,NA,0,0,1,1,0,2011-03-22,1,8
+software,olaworks,212,60,KOR,Seoul,0,0,0,0,4000000,2012-04-17,3.533333333333333,8
+advertising,blinq media,832,830,USA,New York,0,0,3,8,6600000,2012-08-10,1.002409638554217,11
+software,sintecmedia,0,0,USA,New York,0,0,1,14,10001589,2011-03-31,NaN,11
+biotech,molecular devices,229,77,USA,Sunnyvale,0,0,1,11,0,2007-03-19,2.9740259740259742,17
+biotech,solstice neurosciences,162,61,USA,South San Francisco,0,0,0,0,93000000,2010-08-13,2.6557377049180326,22
+biotech,amplimmune,262,74,USA,Rockville,0,0,0,5,20000000,2013-08-26,3.5405405405405403,10
+network_hosting,abovenet,191,94,USA,White Plains,0,0,2,8,0,2012-07-02,2.0319148936170213,8
+travel,off away,172,63,USA,Seattle,0,0,3,3,3250000,2011-12-01,2.7301587301587302,8
+software,indisys,212,63,ESP,Sevilla,0,0,3,1,6447280,2013-09-13,3.365079365079365,7
+consulting,razorfish,1151,199,USA,Chicago,0,0,2,43,0,2002-11-22,5.78391959798995,9
+consulting,razorfish,1151,199,USA,Chicago,0,0,2,43,0,2004-06-28,5.78391959798995,9
+software,prairiefyre software,172,83,CAN,"Kanata, ON",0,0,1,2,0,2013-06-17,2.072289156626506,20
+software,siebel systems,200,60,USA,Redwood Shores,0,0,2,118,0,2006-01-31,3.3333333333333335,14
+software,ariba,274,62,USA,Sunnyvale,0,0,2,44,0,2012-05-22,4.419354838709677,5
+software,fusepoint managed services,195,57,CAN,"Vancouver, BC",0,0,0,1,9000000,2010-05-28,3.4210526315789473,26
+ecommerce,quidsi,1428,844,USA,Jersey City,0,0,3,27,78500000,2010-11-08,1.6919431279620853,6
+NA,red swoosh,168,57,NA,NA,0,0,2,4,1730000,2007-04-12,2.9473684210526314,10
+enterprise,cloupia,432,170,USA,Santa Clara,0,0,1,1,3532577,2012-11-15,2.541176470588235,7
+network_hosting,myspace,898,188,USA,Beverly Hills,0,0,6,181,0,2011-06-29,4.776595744680851,7
+enterprise,opsware,165,59,USA,Sunnyvale,0,0,3,20,186000000,2007-07-23,2.7966101694915255,7
+software,netscape,200,54,USA,Mountain View,0,0,2,116,0,1998-11-28,3.7037037037037037,8
+hardware,navigon,500,100,DEU,Hamburg,0,0,1,3,0,2011-06-14,5,7
+mobile,snaptu,244,64,GBR,London,0,0,3,6,6000000,2011-09-17,3.8125,6
+biotech,vicept therapeutics,185,112,USA,Malvern,0,0,0,7,16000000,2011-07-19,1.6517857142857142,19
+security,network intelligence,0,0,USA,Westwood,0,0,1,5,12000000,2006-09-18,NaN,20
+software,cloakware,0,0,USA,Vienna,0,0,1,5,10000000,2007-12-07,NaN,9
+semiconductor,teridian semiconductor,160,56,USA,Irvine,0,0,1,1,0,2010-04-12,2.857142857142857,22
+enterprise,vignette,195,71,USA,Austin,0,0,1,39,0,2009-05-06,2.7464788732394365,8
+biotech,medicago,251,84,CAN,"QuÃ©bec, Quebec",0,0,0,2,10000000,2013-09-18,2.988095238095238,8
+NA,stonewood group,263,77,GBR,Dorset,0,0,0,0,0,2010-06-05,3.4155844155844157,15
+NA,fortify infrastructure services,258,84,USA,Santa Clara,0,0,0,0,0,2010-04-09,3.0714285714285716,31
+software,nexius,214,69,USA,Reston,0,0,0,2,0,2010-07-01,3.101449275362319,6
+NA,datapresse,0,0,NA,NA,0,0,0,0,0,2010-04-20,NaN,10
+NA,fujian tiandi,0,0,NA,NA,0,0,0,0,0,2010-05-07,NaN,13
+automotive,zhijiang jonway automobile,0,0,CHN,Zhejiang,0,0,0,0,29030000,2010-07-02,NaN,26
+software,routing international,169,57,BEL,Brussels,0,0,0,0,0,2010-06-16,2.9649122807017543,21
+NA,beijing itlamp technology,0,0,NA,NA,0,0,0,0,0,2010-05-17,NaN,25
+software,language weaver,131,66,USA,Los Angeles,0,0,1,4,0,2010-07-15,1.9848484848484849,15
+finance,clairmail,402,168,USA,San Rafael,0,0,3,25,34100000,2012-03-26,2.392857142857143,9
+web,netratings,180,70,USA,NA,0,0,0,2,0,2007-02-01,2.5714285714285716,10
+software,scientific games racing,0,0,USA,Alpharetta,0,0,0,0,0,2010-01-27,NaN,23
+web,inside network,261,34,NA,NA,0,0,2,2,0,2011-05-11,7.676470588235294,14
+web,pluck,228,64,USA,Austin,0,0,4,7,17000000,2008-03-04,3.5625,5
+health,mapmyfitness,348,103,USA,Austin,0,0,3,13,23500000,2013-11-14,3.378640776699029,12
+NA,iontas,0,0,NA,NA,0,0,0,0,0,2010-02-04,NaN,6
+web,nameintelligence,230,43,USA,Bellevue,0,0,1,3,0,2008-04-22,5.348837209302325,16
+web,friendster,178,56,MYS,Kuala Lumpur,0,0,3,24,48500000,2009-12-10,3.1785714285714284,10
+software,3par,165,88,USA,Fremont,0,0,2,9,0,2010-09-02,1.875,4
+web,musician ads,123,97,USA,Cockeysville,0,0,1,1,0,1999-12-31,1.268041237113402,12
+NA,industrybrains,358,61,USA,New York,0,0,1,7,0,2005-07-28,5.868852459016393,14
+network_hosting,xircom,0,0,USA,Thousand Oaks,0,0,1,2,0,2001-01-15,NaN,6
+web,cue,96,43,USA,San Francisco,0,0,2,6,4715000,2013-10-04,2.2325581395348837,3
+enterprise,podio,140,61,DNK,Copenhagen,0,0,3,9,4600000,2012-04-20,2.2950819672131146,5
+biotech,inspire pharmaceuticals,220,59,USA,Durham,0,0,1,8,0,2011-04-05,3.7288135593220337,23
+web,about,182,54,USA,NA,0,0,2,45,0,2012-08-27,3.3703703703703702,5
+semiconductor,phyworks,121,74,GBR,Bristol,0,0,1,6,0,2010-09-08,1.635135135135135,8
+biotech,sirtris pharmaceuticals,230,100,USA,Cambridge,0,0,1,10,82000000,2008-04-22,2.3,23
+web,sabre,141,60,USA,Southlake,1,1,0,20,0,2006-12-01,2.35,5
+web,lastminute,353,71,GBR,London,0,0,4,17,0,2005-07-01,4.971830985915493,10
+software,iarchives,138,42,USA,Lindon,0,0,0,0,0,2010-09-23,3.2857142857142856,9
+games_video,brickbox digital media,216,60,GBR,London,0,0,0,0,0,2010-09-24,3.6,22
+web,digitas,191,36,USA,Boston,0,0,1,50,0,2006-12-20,5.305555555555555,7
+games_video,webshots,147,45,USA,Corte Madera,0,0,4,10,0,2004-07-14,3.2666666666666666,8
+games_video,webshots,147,45,USA,Corte Madera,0,0,4,10,0,NA,3.2666666666666666,8
+games_video,webshots,147,45,USA,Corte Madera,0,0,4,10,0,2002-01-01,3.2666666666666666,8
+games_video,webshots,147,45,USA,Corte Madera,0,0,4,10,0,NA,3.2666666666666666,8
+finance,jambool,255,225,USA,San Francisco,0,0,2,9,6000000,2010-08-09,1.1333333333333333,7
+games_video,hive7,146,77,USA,Palo Alto,0,0,2,4,0,2010-07-12,1.896103896103896,5
+ecommerce,jump on it,349,84,AUS,NA,0,0,0,0,5000000,2012-03-01,4.154761904761905,10
+network_hosting,hellosoft,221,82,USA,San JosÃ©,0,0,0,3,0,2010-11-17,2.6951219512195124,9
+software,skype,315,139,LUX,Luxembourg City,3,3,6,94,76805032,2005-09-12,2.2661870503597124,5
+web,ziplist,223,70,USA,Sterling,0,0,2,9,4500000,2012-04-11,3.1857142857142855,7
+web,getty images,157,39,GBR,London,1,1,2,24,0,2012-08-15,4.0256410256410255,12
+NA,cyota,281,222,NA,NA,0,0,2,8,9000000,2005-12-01,1.2657657657657657,5
+software,ascender,450,67,DEU,Pirmasens,0,0,0,0,0,2010-12-08,6.7164179104477615,8
+enterprise,mindshift technologies,214,45,USA,Waltham,0,0,3,10,19097622,2011-11-07,4.7555555555555555,22
+web,insureme,226,61,USA,Englewood,0,0,1,0,0,2007-02-07,3.7049180327868854,8
+NA,bi,169,24,USA,Boulder,0,0,0,1,0,2010-12-21,7.041666666666667,2
+NA,availl,130,76,USA,San Antonio,0,0,0,0,0,2006-09-25,1.7105263157894737,6
+web,tacoda,201,75,USA,New York,0,0,2,16,19000000,2007-07-24,2.68,6
+web,swapdrive,175,62,USA,Washington,0,0,1,3,4650000,2008-06-01,2.8225806451612905,9
+hardware,konftel,250,52,NA,NA,0,0,0,0,0,2011-01-04,4.8076923076923075,7
+news,alloy,269,82,USA,NA,0,0,2,5,126500000,2010-06-24,3.2804878048780486,5
+consulting,cmac,206,80,USA,Alpharetta,0,0,0,0,0,2011-01-03,2.575,4
+web,friends reunited,108,37,GBR,London,0,0,4,1,0,2005-12-01,2.918918918918919,16
+games_video,ign entertainment,144,114,USA,San Francisco,0,0,4,79,0,2013-02-04,1.263157894736842,17
+web,ideal bite,300,120,USA,San Francisco,0,0,0,1,0,2008-06-12,2.5,10
+software,boxee,101,114,ISR,Tel Aviv,1,1,3,17,26500000,2013-07-03,0.8859649122807017,5
+web,digital insight,208,72,USA,Westlake Village,0,0,2,6,0,2006-12-01,2.888888888888889,15
+public_relations,symmetricom,256,71,USA,San Jose,0,0,2,7,0,2013-10-21,3.6056338028169015,11
+NA,play,220,88,NA,NA,0,0,0,0,0,2011-09-21,2.5,4
+search,ziplocal,144,144,CAN,Toronto,0,0,3,11,14003545,2009-06-22,1,8
+other,quickparts,244,96,USA,Atlanta,0,0,1,1,0,2011-02-22,2.5416666666666665,10
+software,plateau systems,200,57,USA,Arlington,0,0,2,10,0,2011-04-26,3.508771929824561,15
+software,ofis coop,0,0,NA,NA,0,0,0,0,0,2005-02-06,NaN,9
+NA,rapisecure,0,0,NA,NA,0,0,0,0,0,2010-03-11,NaN,10
+software,allegient systems,202,40,USA,Wilton,0,0,0,2,0,2011-03-30,5.05,17
+mobile,onavo,112,80,USA,Palo Alto,0,0,2,11,13000000,2013-10-14,1.4,5
+web,realholidays com au,258,50,AUS,RICHMOND VIC,0,0,0,0,0,2011-04-14,5.16,19
+biotech,novamed pharmaceuticals,361,47,CHN,Shanghai,0,0,1,1,0,2011-04-19,7.680851063829787,23
+enterprise,iona technologies,80,60,IRL,Dublin,0,0,1,10,0,2008-06-25,1.3333333333333333,17
+web,clickz,300,81,USA,New York,0,0,0,2,0,2005-08-01,3.7037037037037037,6
+software,sightspeed,188,43,USA,Berkeley,0,0,3,7,0,2008-11-01,4.372093023255814,10
+NA,harris interactive,140,54,USA,New York,0,0,2,5,0,2013-11-25,2.5925925925925926,18
+NA,brightwell technology,364,104,CAN,"Ottawa, Ontario",0,0,0,0,0,2011-05-12,3.5,21
+travel,tripit,200,108,USA,San Francisco,0,0,5,14,13100000,2011-01-13,1.8518518518518519,6
+enterprise,goinstant,283,60,CAN,Halifax,0,0,3,20,1700000,2012-07-09,4.716666666666667,9
+mobile,wifislam,0,0,USA,Palo Alto,0,0,2,1,0,2013-03-24,NaN,8
+NA,pra international,146,103,USA,Raleigh,0,0,1,9,0,2013-06-24,1.4174757281553398,17
+finance,mint,194,80,USA,Mountain View,0,0,2,17,31775000,2009-09-01,2.425,4
+security,cryptography research,233,58,USA,San Francisco,0,0,0,0,0,2011-06-06,4.017241379310345,21
+news,pulse,2620,1167,USA,San Francisco,0,0,2,23,9800000,2013-04-13,2.2450728363324766,5
+web,postini,183,75,USA,San Carlos,0,0,0,16,0,2007-07-09,2.44,7
+games_video,pump audio,200,127,USA,Hudson Valley,0,0,4,7,2500000,2007-06-01,1.5748031496062993,10
+hardware,sound solutions,0,0,NA,NA,0,0,0,0,0,2011-07-05,NaN,15
+biotech,sophion bioscience,191,100,DNK,Ballerup,0,0,0,0,0,2011-07-06,1.91,18
+NA,edhance,270,71,USA,Cambridge,0,0,1,4,0,2011-05-15,3.8028169014084505,7
+software,zoomix,177,62,GBR,London,0,0,1,8,0,2008-07-14,2.8548387096774195,6
+web,auctomatic,237,44,USA,San Francisco,0,0,0,7,400000,2008-04-01,5.386363636363637,10
+NA,saber,0,0,NA,NA,0,0,1,2,0,2007-11-01,NaN,5
+ecommerce,booking,368,139,NLD,Amsterdam,0,0,1,1,0,2005-07-01,2.647482014388489,7
+advertising,aggregate knowledge,377,238,USA,San Mateo,0,0,0,21,74311925,2013-10-31,1.584033613445378,19
+NA,digitap,0,0,NA,NA,0,0,0,0,0,2011-04-04,NaN,7
+search,bna,204,70,USA,Bethesda,0,0,1,1,0,2011-08-25,2.914285714285714,3
+NA,buka,159,85,RUS,Moscow,0,0,0,0,0,2008-07-18,1.8705882352941177,4
+software,qumu,147,45,USA,San Bruno,0,0,1,5,24750000,2011-10-10,3.2666666666666666,4
+software,springsource,214,73,USA,San Mateo,0,0,2,18,25000000,2009-08-10,2.9315068493150687,12
+web,hunch,145,56,USA,New York,0,0,3,17,19200000,2011-11-21,2.5892857142857144,5
+mobile,axismobile,315,84,ISR,Tel-Aviv,0,0,1,4,3000000,2008-08-18,3.75,10
+mobile,axis,119,72,IDN,"Jl. Mega Kuningan Barat Kav. E4.3 No. 2, Jakarta",0,0,2,10,0,2013-09-26,1.6527777777777777,4
+enterprise,zimbra,300,94,USA,Palo Alto,0,0,3,19,14500000,2013-07-15,3.1914893617021276,6
