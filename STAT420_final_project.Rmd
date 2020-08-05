@@ -20,7 +20,7 @@ urlcolor: cyan
 
 
 ## Methods
-```{r}
+```{r message=FALSE, warning=FALSE}
 #Loading startups data
 library(dplyr)
 library(readr)
