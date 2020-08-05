@@ -54,6 +54,8 @@ startups = startups %>% select(
 
 #Splitting between train and test data (80/20)
 set.seed(20200804)
+
+#Index for 80% of the data
 train_index = sample(1:nrow(startups), size = floor(0.8 * nrow(startups)))
 
 startups_tr = startups[train_index,]
